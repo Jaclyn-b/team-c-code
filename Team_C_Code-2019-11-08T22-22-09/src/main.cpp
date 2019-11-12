@@ -24,6 +24,6 @@ using namespace vex;
 int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
-  //calling the usercontrol function
+  //calling the usercontrol function (not in competition formating)
   usercontrol();
 }
