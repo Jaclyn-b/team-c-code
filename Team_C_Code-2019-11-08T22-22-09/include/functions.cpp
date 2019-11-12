@@ -6,7 +6,7 @@ void chassis (){
  driveL.setVelocity((Controller1.Axis3.value()+Controller1.Axis4.value()), percent);//(Axis3+Axis4)/2
  driveR.setVelocity((Controller1.Axis3.value()-Controller1.Axis4.value()), percent);//(Axis3-Axis4)/2
  driveL.spin(forward); 
- driveR.spin(forward);
+ driveR.spin(forward); 
        
  }
 }
