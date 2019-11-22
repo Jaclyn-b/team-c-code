@@ -8,6 +8,8 @@ extern motor driveR;
 extern controller Controller1;
 extern motor SiderollerL;
 extern motor SiderollerR;
+extern motor PushR;
+extern motor PushL;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Text.

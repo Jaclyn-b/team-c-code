@@ -9,10 +9,12 @@ brain  Brain;
 
 // VEXcode device constructors
 motor driveL = motor(PORT1, ratio18_1, false);
-motor driveR = motor(PORT10, ratio18_1, false);
+motor driveR = motor(PORT9, ratio18_1, true);
 controller Controller1 = controller(primary);
-motor SiderollerL = motor(PORT2, ratio18_1, false);
-motor SiderollerR = motor(PORT3, ratio18_1, false);
+motor SiderollerL = motor(PORT7, ratio18_1, false);
+motor SiderollerR = motor(PORT4, ratio18_1, true);
+motor PushR = motor(PORT8, ratio18_1, false);
+motor PushL = motor(PORT2, ratio18_1, true);
 
 // VEXcode generated functions
 

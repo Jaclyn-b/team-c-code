@@ -2,6 +2,324 @@
 // Robot Configuration:
 // [Name]               [Type]        [Port(s)]
 // driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// Push                 motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// Push                 motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         8               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         7               
+// SiderollerR          motor         4               
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         8               
+// SiderollerR          motor         4               
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         4               
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         9               
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         3               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         4               
+// PushL                motor         2               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         21              
+// PushR                motor         4               
+// PushL                motor         5               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         20              
+// SiderollerR          motor         3               
+// PushR                motor         4               
+// PushL                motor         5               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         2               
+// SiderollerR          motor         3               
+// PushR                motor         4               
+// PushL                motor         5               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         2               
+// SiderollerR          motor         3               
+// Motor4               motor         4               
+// PushL                motor         5               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
+// driveR               motor         10              
+// Controller1          controller                    
+// SiderollerL          motor         2               
+// SiderollerR          motor         3               
+// Motor4               motor         4               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// driveL               motor         1               
 // driveR               motor         10              
 // Controller1          controller                    
 // ---- END VEXCODE CONFIGURED DEVICES ----
