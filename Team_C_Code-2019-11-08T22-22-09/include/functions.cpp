@@ -21,7 +21,7 @@ void chassis (){
   }
 
 }*/
-  void siderollers () {
+void siderollers () {
   if (Controller1.ButtonL1.pressing()){
     SiderollerL.spin(forward); 
     SiderollerR.spin(forward); 
@@ -36,8 +36,7 @@ void chassis (){
     SiderollerR.stop(); 
   }
 
-  }
-
+}
 void push(){
   //if the button R1 is pressed then raise the push mech
   PushL.setVelocity(50, percent); 
