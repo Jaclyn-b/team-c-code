@@ -27,7 +27,7 @@
 // Controller1          controller                    
 // ---- END VEXCODE CONFIGURED DEVICES ----
 // ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
+// Robot Confi guration:
 // [Name]               [Type]        [Port(s)]
 // driveL               motor         1               
 // driveR2              motor         10              
