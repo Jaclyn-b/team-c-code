@@ -7,7 +7,9 @@ void chassis (){
  
 }
 /*void siderollers (int i) {
-  while(Controller1.ButtonR1.pressing(), ++i){
+  if(Controller1.ButtonR1.pressing()){
+    waitUntil(Controller1.ButtonR1.pressing()==false);
+      i++; 
     if (i%2==1){
       SiderollerL.spin(forward); 
       SiderollerR.spin(forward); 
@@ -17,7 +19,7 @@ void chassis (){
       SiderollerL.stop();
       SiderollerR.stop();
     }
-    break;
+    
   }
 
 }*/
