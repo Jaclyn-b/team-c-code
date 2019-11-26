@@ -41,8 +41,8 @@ void siderollers () {
 }
 void push(){
   //if the button R1 is pressed then raise the push mech
-  PushL.setVelocity(50, percent); 
-  PushR.setVelocity(50, percent); 
+  PushL.setVelocity(10, percent); 
+  PushR.setVelocity(10, percent); 
   if (Controller1.ButtonR1.pressing()){
     PushL.spin(forward);
     //Note: PushR Motor is already set to reversed
