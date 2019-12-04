@@ -6,24 +6,10 @@ void chassis (){
  driveR.spin(forward);//(Axis3-Axis4)/2      
  
 }
-/*void siderollers (int i) {
-  if(Controller1.ButtonR1.pressing()){
-    waitUntil(Controller1.ButtonR1.pressing()==false);
-      i++; 
-    if (i%2==1){
-      SiderollerL.spin(forward); 
-      SiderollerR.spin(forward); 
-    }
 
-    else{
-      SiderollerL.stop();
-      SiderollerR.stop();
-    }
-    
-  }
-
-}*/
 void siderollers () {
+  SiderollerL.setVelocity(200, percent); 
+  SiderollerR.setVelocity(200, percent); 
   if (Controller1.ButtonL1.pressing()){
     SiderollerL.spin(forward); 
     SiderollerR.spin(forward); 
@@ -41,8 +27,8 @@ void siderollers () {
 }
 void push(){
   //if the button R1 is pressed then raise the push mech
-  PushL.setVelocity(10, percent); 
-  PushR.setVelocity(10, percent); 
+  PushL.setVelocity(5, percent); 
+  PushR.setVelocity(5, percent); 
   if (Controller1.ButtonR1.pressing()){
     PushL.spin(forward);
     //Note: PushR Motor is already set to reversed
