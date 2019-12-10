@@ -10,13 +10,13 @@ void chassis (){
 void siderollers () {
   SiderollerL.setVelocity(200, percent); 
   SiderollerR.setVelocity(200, percent); 
-  if (Controller1.ButtonL1.pressing()){
-    SiderollerL.spin(forward); 
-    SiderollerR.spin(forward); 
+  if (Controller1.ButtonL2.pressing()){
+    SiderollerL.spin(reverse); 
+    SiderollerR.spin(reverse); 
   }
-  else if (Controller1.ButtonL2.pressing()){
-   SiderollerL.spin(reverse); 
-   SiderollerR.spin(reverse); 
+  else if (Controller1.ButtonL1.pressing()){
+   SiderollerL.spin(forward); 
+   SiderollerR.spin(forward); 
   }
 
   else {
