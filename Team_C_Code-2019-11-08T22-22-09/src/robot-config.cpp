@@ -15,6 +15,7 @@ motor SiderollerL = motor(PORT4, ratio18_1, false);
 motor SiderollerR = motor(PORT3, ratio18_1, true);
 motor PushR = motor(PORT8, ratio18_1, false);
 motor PushL = motor(PORT2, ratio18_1, true);
+motor Arm = motor(PORT5, ratio18_1, false);
 
 // VEXcode generated functions
 

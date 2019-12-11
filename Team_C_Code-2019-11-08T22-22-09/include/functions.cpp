@@ -45,6 +45,15 @@ void push(){
   }
 }
 
+void arm (){
+  if (Controller1.ButtonUp.pressing()){
+    Arm.spin(forward);
+  }
+  
+  else {
+    Arm.stop();
+  }
+}
 void usercontrol (){
   while (true){
     chassis();

@@ -10,6 +10,7 @@ extern motor SiderollerL;
 extern motor SiderollerR;
 extern motor PushR;
 extern motor PushL;
+extern motor Arm;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Text.
